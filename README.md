@@ -21,6 +21,8 @@ word image is only based on the reconstruction technique.
 
 ![Finger-Worn Sensor composition](words-v3-speedup.gif)
 
+Implementation of Prediction of letters and numbers based on Wensi Tang "1D OSC CNN": https://github.com/Wensi-Tang/OS-CNN/
+
 ## The Finger-Worn Sensor
 The Finger-Worn sensor consist of ensemble of three electronic board circuits enclosed in a box
 with measures of 3.5 x 3 x 1.5 cm for length, width, and height, which makes it suitable for fingerworn.
